@@ -1,0 +1,22 @@
+table tr th,
+table tr td {
+  text-align: center;
+}
+body {
+  background: rgb(211, 211, 211) !important;
+  background: linear-gradient(
+    90deg,
+    rgba(211, 211, 211, 1) 15%,
+    rgba(195, 193, 194, 1) 33%,
+    rgba(255, 255, 255, 1) 57%,
+    rgba(202, 198, 198, 1) 88%
+  ) !important;
+}
+.view-body {
+  background-color: #e9e6e3 !important;
+}
+select,
+input {
+  background-color: #f1f2f4 !important;
+  /* border: 2px solid black !important; */
+}
